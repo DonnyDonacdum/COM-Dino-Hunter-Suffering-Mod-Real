@@ -282,7 +282,7 @@
 		</MonsterNumLimit>
 		<RewardMaterial material="200002" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="5007" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="5007001,5007002,5007003" task="5007" sp_cfg_ground="200112" tpbegin_cfg="200302" tpend_cfg="200402" exp="88" gold="28" desc="Get dino egg x 3" limitmelee="false">
+	<gamelevel id="5007" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneChristmas" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="5007001,5007002,5007003,5007004,5007005" task="5007" sp_cfg_ground="200112" tpbegin_cfg="200302" tpend_cfg="200402" exp="88" gold="28" desc="Kill all dinos\n Intro to Bowling Ball Stegosaurus" limitmelee="false">
 		<MonsterNumLimit>
 			<limit type="1" maxnumber="40"/>
 		</MonsterNumLimit>
