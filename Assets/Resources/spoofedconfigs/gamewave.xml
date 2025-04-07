@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
 	<gamewave id="1001001" trigger="0" triggervalue="4" delay="0" interval="10" number="2" loop="-1" cutscene_ambience="no" israndom="true" mobcount="14" moblevel_default="1">
-		<mob mob_id="1,29" mob_level="1" startpoint="0" random="1,2"/>
+		<mob mob_id="1,2" mob_level="1" startpoint="0" random="1,2"/>
 	</gamewave>
 	<gamewave id="1" trigger="0" triggervalue="4" delay="0" interval="10" number="2" loop="-1" israndom="true" mobcount="14" moblevel_default="1">
 		<mob mob_id="17,4" mob_level="1" startpoint="0" random="1,2"/>
@@ -564,55 +564,64 @@
 	<gamewave id="5006003" trigger="0" triggervalue="0" delay="0" interval="6" number="2" loop="-1" israndom="true" mobcount="40" moblevel_default="19">
 		<mob mob_id="17,4,18" startpoint="0" random="1,1,1"/>
 	</gamewave>
-	<gamewave id="5007001" trigger="0" triggervalue="0" delay="0" interval="10" number="1" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
+	<gamewave id="5007001" trigger="0" triggervalue="0" delay="0" interval="8" number="1" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
 		<mob mob_id="1,0,2" startpoint="0" random="2,1,2"/>
 	</gamewave>
 	<gamewave id="5007002" trigger="0" triggervalue="0" delay="0" interval="8" number="1" loop="0" israndom="true" mobcount="44" moblevel_default="19">
 		<mob mob_id="7,8,4,5" startpoint="0" random="1,2,2,1"/>
 	</gamewave>
-	<gamewave id="5007003" trigger="0" triggervalue="0" delay="0" interval="10" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
+	<gamewave id="5007003" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
 		<mob mob_id="24,17" startpoint="0" random="1,1"/>
 	</gamewave>
-	<gamewave id="5007004" trigger="0" triggervalue="0" delay="0" interval="10" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
+	<gamewave id="5007004" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
 		<mob mob_id="28,18" startpoint="0" random="1,1"/>
 	</gamewave>
-	<gamewave id="5007005" trigger="0" triggervalue="0" delay="0" interval="10" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="18">
+	<gamewave id="5007005" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="18">
 		<mob mob_id="30,44,55,25" startpoint="0" random="1,1,2,2"/>
 	</gamewave>
-	<gamewave id="5007104" trigger="0" triggervalue="0" delay="0" interval="10" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
+	<gamewave id="5007104" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="44" moblevel_default="19">
 		<mob mob_id="15,16,160" startpoint="0" random="1,1,1"/>
 	</gamewave>
-	<gamewave id="5008001" trigger="0" triggervalue="4" delay="0" interval="10" number="1" loop="-1" israndom="true" mobcount="12" moblevel_default="19">
-		<mob mob_id="17" startpoint="0" random="1"/>
+	<gamewave id="5008001" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="46" moblevel_default="19">
+		<mob mob_id="29,28" startpoint="0" random="1,1"/>
 	</gamewave>
-	<gamewave id="5008002" trigger="0" triggervalue="0" delay="0" interval="22" number="1" loop="-1" israndom="true" mobcount="6" moblevel_default="19">
-		<mob mob_id="8,17" startpoint="0" random="1,1"/>
+	<gamewave id="5008002" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="46" moblevel_default="19">
+		<mob mob_id="0,1,2,30" startpoint="0" random="1,1,2,3"/>
 	</gamewave>
-	<gamewave id="5008003" trigger="0" triggervalue="20" delay="0" interval="16" number="1" loop="-1" israndom="true" mobcount="6" moblevel_default="19">
-		<mob mob_id="4,8,17" startpoint="0" random="1,1,1"/>
+	<gamewave id="5008003" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="46" moblevel_default="19">
+		<mob mob_id="7,8,44" startpoint="0" random="1,1,1"/>
 	</gamewave>
-	<gamewave id="5009001" trigger="0" triggervalue="4" delay="0" interval="8" number="1" loop="-1" israndom="true" mobcount="10" moblevel_default="19">
-		<mob mob_id="1802,1" startpoint="0" random="1,2"/>
+	<gamewave id="5008004" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="46" moblevel_default="19">
+		<mob mob_id="18,17,24,55,5,4" startpoint="0" random="1,1,1,2,2,2"/>
 	</gamewave>
-	<gamewave id="5009002" trigger="0" triggervalue="40" delay="0" interval="10" number="2" loop="-1" israndom="true" mobcount="8" moblevel_default="19">
-		<mob mob_id="1802,802,1" startpoint="0" random="1,1,1"/>
+	<gamewave id="5008005" trigger="0" triggervalue="0" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="46" moblevel_default="19">
+		<mob mob_id="10,26,27,25,16,15,160" startpoint="0" random="1,1,1,2,2,2,3"/>
 	</gamewave>
-	<gamewave id="5009003" trigger="0" triggervalue="80" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="12" moblevel_default="20">
-		<mob mob_id="1802,802,1" startpoint="0" random="1,1,1"/>
+	<gamewave id="5009001" trigger="0" triggervalue="4" delay="0" interval="8" number="1" loop="-1" israndom="true" mobcount="30" moblevel_default="19">
+		<mob mob_id="24,1,0,2,27" startpoint="0" random="1,2,3,4,5"/>
 	</gamewave>
-	<gamewave id="5010001" trigger="0" triggervalue="4" delay="0" interval="8" number="1" loop="-1" israndom="true" mobcount="4" moblevel_default="23">
-		<mob mob_id="2,17" startpoint="0" random="2,1"/>
+	<gamewave id="5009002" trigger="0" triggervalue="40" delay="0" interval="10" number="2" loop="-1" israndom="true" mobcount="38" moblevel_default="19">
+		<mob mob_id="4,5,7,8" startpoint="0" random="1,1,1,1"/>
 	</gamewave>
-	<gamewave id="5010002" trigger="1" triggervalue="5010005,0,2,90102" delay="0" interval="10" number="1" loop="0" israndom="true" mobcount="4" moblevel_default="23">
-		<mob mob_id="2,17,8" startpoint="0" random="1,1,1"/>
+	<gamewave id="5009003" trigger="0" triggervalue="80" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="36" moblevel_default="20">
+		<mob mob_id="1802,802,30,1702" startpoint="0" random="1,1,1"/>
 	</gamewave>
-	<gamewave id="5010003" trigger="0" triggervalue="30" delay="6" interval="10" number="1" loop="-1" cutscene="xuedi_boss1" cutscene_BGM="BGM_Map04" cutscene_ambience="Amb_Snowfield_Boss_Show" israndom="true" mobcount="1" moblevel_default="15">
+	<gamewave id="5009004" trigger="0" triggervalue="120" delay="0" interval="8" number="2" loop="-1" israndom="true" mobcount="32" moblevel_default="20">
+		<mob mob_id="55,44,24" startpoint="0" random="1,1,1"/>
+	</gamewave>
+	<gamewave id="5010001" trigger="0" triggervalue="0" delay="0" interval="8" number="1" loop="-1" israndom="true" mobcount="44" moblevel_default="23">
+		<mob mob_id="27,28,29" startpoint="0" random="2,1,2"/>
+	</gamewave>
+	<gamewave id="5010002" trigger="0" triggervalue="0" delay="0" interval="8" number="1" loop="0" israndom="true" mobcount="44" moblevel_default="23">
+		<mob mob_id="10,26,30,55,25" startpoint="0" random="1,1,1,1,1"/>
+	</gamewave>
+	<gamewave id="5010003" trigger="0" triggervalue="30" delay="6" interval="8" number="1" loop="-1" cutscene="xuedi_boss1" cutscene_BGM="BGM_Map04" cutscene_ambience="Amb_Snowfield_Boss_Show" israndom="true" mobcount="1" moblevel_default="15">
 		<mob mob_id="9" startpoint="5" random="1"/>
 	</gamewave>
-	<gamewave id="5010004" trigger="0" triggervalue="40" delay="0" interval="15" number="1" loop="-1" israndom="true" mobcount="4" moblevel_default="23">
-		<mob mob_id="2,17,8" startpoint="0" random="1,1,2"/>
+	<gamewave id="5010004" trigger="0" triggervalue="0" delay="0" interval="8" number="1" loop="-1" israndom="true" mobcount="44" moblevel_default="23">
+		<mob mob_id="0,24,160" startpoint="0" random="1,1,2"/>
 	</gamewave>
-	<gamewave id="5010005" trigger="1" triggervalue="5010003,0,2,90103" delay="1" interval="15" number="1" loop="-1" israndom="true" mobcount="1" moblevel_default="17">
+	<gamewave id="5010005" trigger="1" triggervalue="5010003,0,2,90103" delay="1" interval="8" number="1" loop="-1" israndom="true" mobcount="1" moblevel_default="17">
 		<mob mob_id="9" startpoint="5" random="1"/>
 	</gamewave>
 	<gamewave id="6001001" trigger="0" triggervalue="4" delay="0" interval="10" number="1" loop="-1" israndom="true" mobcount="15" moblevel_default="20">

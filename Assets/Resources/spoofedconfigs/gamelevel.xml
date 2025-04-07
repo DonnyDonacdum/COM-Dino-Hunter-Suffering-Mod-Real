@@ -282,19 +282,19 @@
 		</MonsterNumLimit>
 		<RewardMaterial material="200002" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="5007" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneChristmas" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="5007001,5007002,5007003,5007004,5007104,5007005" task="5007" sp_cfg_ground="200112" tpbegin_cfg="200302" tpend_cfg="200402" exp="88" gold="28" desc="Kill all dinos\n Intro to Bowling Stegosaurus" limitmelee="false">
+	<gamelevel id="5007" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneChristmas" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="5007001,5007002,5007003,5007004,5007104,5007005" task="5007" sp_cfg_ground="200112" tpbegin_cfg="200302" tpend_cfg="200402" exp="88" gold="28" desc="Kill all dinos\n Intro to Crusher Stegosaurus" limitmelee="false">
 		<MonsterNumLimit>
 			<limit type="1" maxnumber="42"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200003" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="5008" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneChristmas" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="5008001,5008002,5008003" task="5008" sp_cfg_ground="200111" exp="90" gold="28" desc="Kill all dinos" limitmelee="false">
+	<gamelevel id="5008" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneChristmas" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="5008001,5008002,5008003,5008004,5008005" task="5008" sp_cfg_ground="200111" exp="90" gold="38" desc="Kill all dinos\n Intro to Spliter Stegosaurus" limitmelee="false">
 		<MonsterNumLimit>
 			<limit type="1" maxnumber="44"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200003" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="5009" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="5009001,5009002,5009003" task="5009" sp_cfg_ground="200112" tpend_cfg="200401" exp="91" gold="28" desc="Hold out 3 waves of dino" limitmelee="false">
+	<gamelevel id="5009" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="5009001,5009002,5009003,5009004" task="5009" sp_cfg_ground="200112" tpend_cfg="200401" exp="91" gold="28" desc="Hold out 4 waves of dino" limitmelee="false">
 		<MonsterNumLimit>
 			<limit type="1" maxnumber="46"/>
 		</MonsterNumLimit>
