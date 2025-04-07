@@ -599,7 +599,7 @@ GameObject:
   - component: {fileID: 4658578596630824}
   - component: {fileID: 114462248362665889}
   m_Layer: 26
-  m_Name: model_stegosaurus
+  m_Name: model_stegosaurus1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
