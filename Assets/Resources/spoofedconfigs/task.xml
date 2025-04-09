@@ -54,9 +54,9 @@
 	<task id="6002" type="5" FinishList="2" FinishValueList="2"/>
 	<task id="6003" type="5" FinishList="2" FinishValueList="2"/>
 	<task id="6004" type="4" FinishList="1" FinishValueList="150"/>
-	<task id="6005" type="2" IDList="11" NUMList="8"/>
+	<task id="6005" type="2" IDList="12,22" NUMList="8,4"/>
 	<task id="6006" type="5" FinishList="2" FinishValueList="2"/>
-	<task id="6007" type="4" FinishList="1" FinishValueList="180"/>
+	<task id="6007" type="4" FinishList="1" FinishValueList="240"/>
 	<task id="6008" type="5" FinishList="2" FinishValueList="2"/>
 	<task id="6009" type="4" FinishList="1" FinishValueList="210"/>
 	<task id="6010" type="2" IDList="2203" NUMList="1"/>

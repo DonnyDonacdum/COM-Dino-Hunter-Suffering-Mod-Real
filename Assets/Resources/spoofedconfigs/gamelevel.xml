@@ -306,183 +306,183 @@
 		</MonsterNumLimit>
 		<RewardMaterial material="200013,200014" mincount="-4,-4" maxcount="1,1"/>
 	</gamelevel>
-	<gamelevel id="6001" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6001001,6001002" task="6001" sp_cfg_ground="10111" exp="95" gold="29" desc="Survive 3:00" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6001" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6001001,6001002,6001003,6001004" task="6001" sp_cfg_ground="10111" exp="95" gold="29" desc="Survive 3:00 \n Intro to Baby Amphibious Pterodectyl" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="42"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200015" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6002" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6002001,6002002,6002003" task="6002" sp_cfg_ground="10111" exp="96" gold="29" desc="Kill all dinos" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6002" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6002001,6002002,6002003,6002004,6002005,6002006" task="6002" sp_cfg_ground="10111" exp="96" gold="29" desc="Kill all dinos\n Intro to Poisonous Amphibious Pterodectyl" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="42"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200015" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6003" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6003001,6003002,6003003" task="6003" sp_cfg_ground="10111" exp="98" gold="29" desc="Kill all dinos" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6003" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6003001,6003002,6003003,6003004,6003005" task="6003" sp_cfg_ground="10111" exp="98" gold="29" desc="Kill all dinos\n Intro to Raven Pterodectyl" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200015" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6004" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6004001,6004002,6004003" task="6004" sp_cfg_ground="10111" exp="100" gold="29" desc="Survive 2:30" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6004" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6004001,6004002,6004003,6004004,6004005,6004006,6004007" task="6004" sp_cfg_ground="10111" exp="100" gold="29" desc="Survive 2:30\n Intro to Purple Raven Pterordectyl" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200015" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6005" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6005001,6005002,6005003" task="6005" sp_cfg_ground="10111" exp="101" gold="29" desc="Hunt Teradactyl x 8" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6005" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6005001,6005002,6005003,6005004" task="6005" sp_cfg_ground="10111" exp="101" gold="29" desc="Hunt Terrordectyl x 8\n Hunt Amphibious Pterodectyl x 4" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="42"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="300006" mincount="-4" maxcount="1"/>
 	</gamelevel>
-	<gamelevel id="6006" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6006001,6006002,6006003,6006004" task="6006" sp_cfg_ground="10111" exp="102" gold="29" desc="Kill all dinos" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6006" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6006001,6006002,6006003,6006004,6006005,6006006" task="6006" sp_cfg_ground="10111" exp="102" gold="29" desc="Kill all dinos\n Intro to Phantom Teradectyl" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="42"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200015" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6007" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6007001,6007002,6007003" task="6007" sp_cfg_ground="10111" exp="105" gold="29" desc="Survive 3:00" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6007" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6007001,6007002,6007003" task="6007" sp_cfg_ground="10111" exp="105" gold="29" desc="Survive 4:00" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6008" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6008001,6008002,6008003" task="6008" sp_cfg_ground="10111" exp="106" gold="30" desc="Kill all dinos" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6008" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6008001,6008002,6008003" task="6008" sp_cfg_ground="10111" exp="106" gold="30" desc="Kill all dinos" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6009" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6009001,6009002,6009003" task="6009" sp_cfg_ground="10111" exp="107" gold="30" desc="Survive 3:30" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6009" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6009001,6009002,6009003" task="6009" sp_cfg_ground="10111" exp="107" gold="30" desc="Survive 3:30" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6010" BGM="BGM_Map04" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorge" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6010001,6010002,6010003,6010004" task="6010" sp_cfg_ground="10111" exp="109" gold="30" desc="Hunt Amphibious Pterodactyl x 1" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6010" BGM="BGM_Map04" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6010001,6010002,6010003,6010004" task="6010" sp_cfg_ground="10111" exp="109" gold="30" desc="Hunt Amphibious Pterodactyl x 1" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="42"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="300007" mincount="-4" maxcount="1"/>
 	</gamelevel>
 	<gamelevel id="7001" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7001001,7001002,7001003" task="7001" sp_cfg_ground="200111" exp="111" gold="30" desc="Kill all dinos" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="43"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7002" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7002001,7002002,7002003" task="7002" sp_cfg_ground="200111" exp="112" gold="30" desc="Survive 3:00" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="54"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7003" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="7003001,7003002,7003003,7003004" task="7003" sp_cfg_ground="200112" tpbegin_cfg="200302" tpend_cfg="200402" exp="114" gold="30" desc="Get dino egg x 3" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="65"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200017" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7004" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200102" gamewave="7004001,7004002,7004003" task="7004" sp_cfg_ground="200112" tpend_cfg="200401" exp="116" gold="31" desc="Hold out 3 waves of dino" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="72"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200017" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7005" BGM="BGM_Map04" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7005001,7005002,7005003,7005004,7005005" task="7005" sp_cfg_ground="200111" exp="117" gold="31" desc="Hunt Spine King x 1" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="66"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="300008" mincount="-4" maxcount="1"/>
 	</gamelevel>
 	<gamelevel id="7006" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7006001,7006002,7006003" task="7006" sp_cfg_ground="200111" exp="119" gold="31" desc="Kill all dinos" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="56"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200017" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7007" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7007001,7007002,7007003" task="7007" sp_cfg_ground="200111" exp="121" gold="31" desc="Survive 3:30" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="51"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200017" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7008" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7008001,7008002,7008003" task="7008" sp_cfg_ground="200111" exp="122" gold="31" desc="Kill all dinos\nMelee weapons only" limitmelee="true">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="54"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200017" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7009" BGM="BGM_Map01" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7009001,7009002,7009003" task="7009" sp_cfg_ground="200111" exp="123" gold="31" desc="Survive 3:00" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="55"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200018" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="7010" BGM="BGM_Map04" BGM_ambience="Amb_Map04_Snowfield" scenename="SceneSnow" isskyscene="false" nav_plane="0" bp_cfg="200101" gamewave="7010001,7010002,7010003,7010004" task="7010" sp_cfg_ground="200111" exp="126" gold="31" desc="Hunt T Rex x 1\nHunt Megaraptor x 1" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="300003,300004" mincount="2,2" maxcount="4,4"/>
 	</gamelevel>
 	<gamelevel id="8001" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8001001,8001002,8001003" task="8001" sp_cfg_ground="20111" exp="189" gold="32" desc="Kill all dinos" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200018" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8002" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20102" gamewave="8002001,8002002,8002003,8002004" task="8002" sp_cfg_ground="20112" tpend_cfg="20401" exp="192" gold="32" desc="Hold out 3 waves of dino" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200018" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8003" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8003001,8003002,8003003" task="8003" sp_cfg_ground="20111" exp="196" gold="32" desc="Kill all dinos" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="55"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200018" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8004" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8004001,8004002,8004003,8004004" task="8004" sp_cfg_ground="20111" exp="200" gold="32" desc="Survive 2:30" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200018" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8005" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8005001,8005002,8005003,8005004" task="8005" sp_cfg_ground="20111" exp="204" gold="32" desc="Hunt Turboraptor x 10" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="300005" mincount="2" maxcount="4"/>
 	</gamelevel>
 	<gamelevel id="8006" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8006001,8006002,8006003,8006004" task="8006" sp_cfg_ground="20111" exp="207" gold="32" desc="Survive 3:00" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="62"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200019" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8007" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8007001,8007002,8007003" task="8007" sp_cfg_ground="20111" exp="212" gold="33" desc="Kill all dinos\nMelee weapons only" limitmelee="true">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="62"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200019" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8008" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20102" gamewave="8008001,8008002,8008003" task="8008" sp_cfg_ground="20112" tpbegin_cfg="20302" tpend_cfg="20402" exp="215" gold="33" desc="Get dino egg x 2" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="65"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200019" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8009" BGM="BGM_Map01" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8009001,8009002,8009003,8009004" task="8009" sp_cfg_ground="20111" exp="219" gold="33" desc="Kill all dinos" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="62"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200019" mincount="4" maxcount="6"/>
 	</gamelevel>
 	<gamelevel id="8010" BGM="BGM_Map04" BGM_ambience="Amb_Map01_Rainforest" scenename="SceneForest" isskyscene="false" nav_plane="0" bp_cfg="20101" gamewave="8010001,8010002,8010003,8010004,8010005" task="8010" sp_cfg_ground="20111" exp="223" gold="33" desc="Hunt Megaraptor x 2" limitmelee="false">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="12"/>
+			<limit type="1" maxnumber="62"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="300009" mincount="-4" maxcount="1"/>
 	</gamelevel>

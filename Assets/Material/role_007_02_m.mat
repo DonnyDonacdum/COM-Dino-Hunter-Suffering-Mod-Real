@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: role_007_01_m
+  m_Name: role_007_02_m
   m_Shader: {fileID: 4800000, guid: e6564c6d780282248b9bf9fe41a785f7, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 0
@@ -40,4 +40,4 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats: []
     m_Colors:
-    - _Color: {r: 0.99264705, g: 0.43128797, b: 0, a: 1}
+    - _Color: {r: 0, g: 0.2943712, b: 0.99264705, a: 1}

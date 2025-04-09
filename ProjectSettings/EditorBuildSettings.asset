@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scene/_Scenes/SceneGorge.unity
     guid: 0b4278bac83d13844bd3af5dff8741e0
   - enabled: 1
+    path: Assets/Scene/_Scenes/SceneGorgeNight.unity
+    guid: 9654417da988cc04ba356778e41518f7
+  - enabled: 1
     path: Assets/Scene/_Scenes/SceneIce.unity
     guid: 72142cedf933085498900e33d711f04b
   - enabled: 1

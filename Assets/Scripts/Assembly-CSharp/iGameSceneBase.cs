@@ -935,6 +935,8 @@ public class iGameSceneBase
 				return "BGM_Map03";
             case "SceneGorge":
                 return "BGM_Map07";
+            case "SceneGorgeNight":
+                return "BGM_Map10";
             case "SceneChristmas":
                 return "BGM_Map09";
             case "SceneSnow":

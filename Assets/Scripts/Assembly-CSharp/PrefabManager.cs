@@ -79,8 +79,9 @@ public class PrefabManager
 		m_dictData.Add(21, "Artist/Model/Character/model_pterodactyl1");
 		m_dictData.Add(22, "Artist/Model/Character/model_pterodactyl2");
 		m_dictData.Add(23, "Artist/Model/Character/model_pterodactyl3");
-        m_dictData.Add(26, "Artist/Model/Character/model_pterodactyl4");
+        m_dictData.Add(24, "Artist/Model/Character/model_teradactyl");
         m_dictData.Add(25, "Artist/Model/Character/model_dilophosaurus5");
+        m_dictData.Add(26, "Artist/Model/Character/model_pterodactyl4");
         m_dictData.Add(27, "Artist/Model/Character/model_ankylosaur3");
         m_dictData.Add(28, "Artist/Model/Character/model_stegosaurus");
         m_dictData.Add(29, "Artist/Model/Character/model_stegosaurus1");
@@ -90,7 +91,9 @@ public class PrefabManager
 		m_dictData.Add(33, "Artist/Model/Character/model_velociraptor3");
 		m_dictData.Add(34, "Artist/Model/Character/model_velociraptor4");
 		m_dictData.Add(35, "Artist/Model/Character/model_velociraptor5");
-		m_dictData.Add(41, "Artist/Model/Character/model_dilophosaurus1");
+        m_dictData.Add(36, "Artist/Model/Character/model_pterodactyl5");
+        m_dictData.Add(37, "Artist/Model/Character/model_pterodactyl6");
+        m_dictData.Add(41, "Artist/Model/Character/model_dilophosaurus1");
 		m_dictData.Add(42, "Artist/Model/Character/model_dilophosaurus2");
 		m_dictData.Add(43, "Artist/Model/Character/model_dilophosaurus3");
         m_dictData.Add(44, "Artist/Model/Character/model_dilophosaurus4");
@@ -159,7 +162,8 @@ public class PrefabManager
 		m_dictData.Add(172, "Artist/Model/Spawn/spawn_venom_ground_green");
 		m_dictData.Add(173, "Artist/Model/Spawn/spawn_venom_yellow");
 		m_dictData.Add(174, "Artist/Model/Spawn/spawn_venom_ground_yellow");
-		m_dictData.Add(250, "Artist/Model/Items/Egg");
+        m_dictData.Add(180, "Artist/Model/Character/model_pterodactyl_amphibious2");
+        m_dictData.Add(250, "Artist/Model/Items/Egg");
 		m_dictData.Add(251, "Artist/Model/Items/Gold");
 		m_dictData.Add(252, "Artist/Model/Items/Material");
 		m_dictData.Add(253, "Artist/Model/Items/Crystal");
@@ -171,7 +175,8 @@ public class PrefabManager
 		m_dictData.Add(300, "Artist/Model/BackPack/BackPackFly");
 		m_dictData.Add(301, "Artist/Model/BackPack/BackBag");
 		m_dictData.Add(302, "Artist/Model/Items/GoldEmitter");
-		m_dictData.Add(1000, "Artist/Effect/Weapon/weapon_fire_01/weapon_fire_pfb");
+        m_dictData.Add(303, "Artist/Model/Character/model_pterodactyl_amphibious1");
+        m_dictData.Add(1000, "Artist/Effect/Weapon/weapon_fire_01/weapon_fire_pfb");
 		m_dictData.Add(1001, "Artist/Effect/Weapon/weapon_flash_01/weapon_flash_01_pfb");
 		m_dictData.Add(1002, "Artist/Effect/Weapon/weapon_ice_01/weapon_ice_01_pfb");
 		m_dictData.Add(1003, "Artist/Effect/Weapon/weapon_fire_01/weapon_fire_02_pfb");
