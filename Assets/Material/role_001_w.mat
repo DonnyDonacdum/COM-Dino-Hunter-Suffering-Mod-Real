@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: role_001_03_wp
-  m_Shader: {fileID: 4800000, guid: 0c87c1a476f926145a678546eb790fa2, type: 3}
+  m_Name: role_001_w
+  m_Shader: {fileID: 4800000, guid: e6564c6d780282248b9bf9fe41a785f7, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
@@ -23,7 +23,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BrightMap:
-        m_Texture: {fileID: 2800000, guid: 01b62639973d0d544b8b9b6d539b1956, type: 3}
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Channel1:
@@ -31,11 +35,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LightMap:
-        m_Texture: {fileID: 2800000, guid: dcc931f767b00fb4f95465eda81a67f9, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 14a7a659641a54447b16220c93ca8bb7, type: 3}
+        m_Texture: {fileID: 2800000, guid: bbcb779d61a46644ba38bd36ba0a462b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

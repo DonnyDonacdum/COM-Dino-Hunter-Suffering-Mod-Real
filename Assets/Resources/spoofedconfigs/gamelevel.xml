@@ -342,27 +342,27 @@
 		</MonsterNumLimit>
 		<RewardMaterial material="200015" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6007" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6007001,6007002,6007003" task="6007" sp_cfg_ground="10111" exp="105" gold="29" desc="Survive 4:00" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6007" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6007001,6007002,6007003,6007004,6007005,6007006,6007007" task="6007" sp_cfg_ground="10111" exp="105" gold="29" desc="Survive 8:00\n Intro to Horror Teradectyl" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+		<MonsterNumLimit>
+			<limit type="1" maxnumber="50"/>
+		</MonsterNumLimit>
+		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
+	</gamelevel>
+	<gamelevel id="6008" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6008001,6008002,6008003,6008004,6008005,6008006,6008007,6008008,6008009" task="6008" sp_cfg_ground="10111" exp="106" gold="30" desc="Kill all dinos\n Intro to Glitchy Pterodectyl" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
 			<limit type="1" maxnumber="52"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6008" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6008001,6008002,6008003" task="6008" sp_cfg_ground="10111" exp="106" gold="30" desc="Kill all dinos" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6009" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6009001,6009002,6009003,6009004,6009005,6009006,6009007" task="6009" sp_cfg_ground="10111" exp="107" gold="30" desc="Survive for an Hour of Hell" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="52"/>
+			<limit type="1" maxnumber="152"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
 	</gamelevel>
-	<gamelevel id="6009" BGM="BGM_Map01" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6009001,6009002,6009003" task="6009" sp_cfg_ground="10111" exp="107" gold="30" desc="Survive 3:30" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
+	<gamelevel id="6010" BGM="BGM_Map04" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6010001,6010002,6010003,6010004,6010005,6010006,6010007,6010008,6010009,6010010" task="6010" sp_cfg_ground="10111" exp="109" gold="30" desc="Destroy Sinister Seven!" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
 		<MonsterNumLimit>
-			<limit type="1" maxnumber="52"/>
-		</MonsterNumLimit>
-		<RewardMaterial material="200016" mincount="4" maxcount="6"/>
-	</gamelevel>
-	<gamelevel id="6010" BGM="BGM_Map04" BGM_ambience="Amb_Map02_WindValley" scenename="SceneGorgeNight" isskyscene="true" nav_plane="225" bp_cfg="10101" gamewave="6010001,6010002,6010003,6010004" task="6010" sp_cfg_ground="10111" exp="109" gold="30" desc="Hunt Amphibious Pterodactyl x 1" limitmelee="false" sp_cfg_sky="10201" hp_cfg_def="10501">
-		<MonsterNumLimit>
-			<limit type="1" maxnumber="42"/>
+			<limit type="1" maxnumber="142"/>
 		</MonsterNumLimit>
 		<RewardMaterial material="300007" mincount="-4" maxcount="1"/>
 	</gamelevel>

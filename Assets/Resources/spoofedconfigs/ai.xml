@@ -99,15 +99,17 @@
 	
 	<!-- ������������ -->
 		<ai id="110101" skill="10000" skillrate="100" behavior="1" />	
+		<ai id="110001" skill="10000,40003,30003" skillrate="10,10,10" behavior="1" />
 	<!-- ������������ -->
 		<ai id="110201" skill="10001" skillrate="100" behavior="2" />	
 		<ai id="110301" skill="20001,10001" skillrate="50,50" behavior="2" />	
+		<ai id="111301" skill="50001,10001" skillrate="50,50" behavior="2" />	
 	
 	<!-- ����BOSS -->
 		<ai id="120101" skill="10003,10001" skillrate="60,40" behavior="1" />	
 		<ai id="120102" skill="10001,10002" skillrate="70,30" behavior="2" skillpassive="20053" effectlist="1500"/>
 		<ai id="120103" skill="10001,10002,10003,1000000" skillrate="40,30,30,50" behavior="1" skillpassive="20052"  effectlist="1500,1501"/>
-		<ai id="12001" skill="10002,10001,40002" skillrate="60,40,50" behavior="1" />
+		<ai id="12001" skill="10002,10001,40003" skillrate="60,40,50" behavior="1" />
 		<!-- ������������BOSS -->
 		<ai id="120201" skill="10001,10002,10003" skillrate="40,30,30" behavior="1" skillpassive="20052" effectlist="1500,1501"/>	
 		<!-- ���п�������BOSS -->
@@ -296,10 +298,12 @@
 			<aimanager id="1002" ai="100201" />	
 			
 			<!-- ������������ -->
+		    <aimanager id="1100" ai="110001" />	
 			<aimanager id="1101" ai="110101" />		
 				<!-- ������������ -->
 			<aimanager id="1102" ai="110201" />	
 		    <aimanager id="1103" ai="110301" />	
+		    <aimanager id="1113" ai="111301" />	
 	
 				<!-- ����BOSS -->
 			<aimanager id="1201" ai="120101">	
